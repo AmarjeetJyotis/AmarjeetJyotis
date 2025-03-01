@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://amarjeetkumarcu.netlify.app/](https://amarjeetkumarcu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)
 
 - 💬 Ask me about **Web Development, Software Engineering, Android Development**
 
