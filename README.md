@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ak7462514@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zMZRBM0uRsBRvkybdD0NEEDomyYuRhz3/view?usp=sharing](https://drive.google.com/file/d/1zMZRBM0uRsBRvkybdD0NEEDomyYuRhz3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zMZRBM0uRsBRvkybdD0NEEDomyYuRhz3/view?usp=sharing](https://drive.google.com/file/d/1TgMa9nG0nCkG0qo7uFxpd61sv4HmySry/view)
 
 - ⚡ Fun fact **I am Funny 🤘😎**
 
