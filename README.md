@@ -32,6 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeetjyotish&show_icons=true&locale=en&layout=compact" alt="amarjeetjyotish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjeetjyotish&show_icons=true&locale=en" alt="amarjeetjyotish" /></p>
-
+![AmarjeetJyotis's Stats](https://github-readme-stats.vercel.app/api?username=AmarjeetJyotis&theme=default&show_icons=true&hide_border=true&count_private=true)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmarjeetJyotis" alt="GitHub Streak" /></a>
