@@ -5,6 +5,16 @@
 <h3 align="center">Software Engineer | AI Enthusiast | Front-End Developer 🚀</h3>
 
 <p align="center">Let’s Build Intelligent and Scalable Web Solutions!</p>
+
+<p align="center">
+  <a href="https://amarjeetkr.vercel.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/amarjeet-jyotish/">LinkedIn</a> -
+  <a href="https://linktr.ee/AmarjeetKumarJyotish">LinkTree</a> -
+  <a href="https://twitter.com/">Twitter</a> -
+  <a href="https://www.facebook.com/amarjeetaryan.aaryan">Facebook</a> -
+  <a href="https://www.instagram.com/amarjeetjyotish/">Instagram</a>
+</p>
+
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
