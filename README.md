@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-## 📌 About Me
+
 - 🌱 Currently working on AI projects, mastering **React.js / Next.js**, and building scalable apps using **AWS**, **Redux**, and **PostgreSQL**.
 
 - 👨‍💻 Check out all my major projects here: [Linktree: ](https://linktr.ee/AmarjeetKumarJyotish)
