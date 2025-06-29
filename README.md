@@ -8,15 +8,16 @@
 
 
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
 
 
 - 🌱 I’m currently learning and building with the **MERN Stack**, AI, and scalable web apps.
 
-- 👨‍💻 Check out all my major projects here: [Linktree: ](https://amarjeetkr.vercel.app/)
+- 👨‍💻 Check out all my major projects here: [Linktree: ](https://linktr.ee/AmarjeetKumarJyotish)
 
-- 👨‍💻 Check my Portfolio : [Portfolio](https://linktr.ee/AmarjeetKumarJyotish)
+- 👨‍💻 Check my Portfolio : [Portfolio](https://amarjeetkr.vercel.app/)
 
 - 💬 Ask me about **Web Development, React.js, AI Projects, or Software Engineering**
 
