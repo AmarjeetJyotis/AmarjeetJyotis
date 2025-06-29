@@ -19,12 +19,13 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
+## 📌 About Me
 
 - 🌱 Currently working on AI projects, mastering **React.js / Next.js**, and building scalable apps using **AWS**, **Redux**, and **PostgreSQL**.
 
-- 👨‍💻 Check out all my major projects here: [Linktree: ](https://linktr.ee/AmarjeetKumarJyotish)
+- 👨‍💻 Check out all my major projects here: [Linktree](https://linktr.ee/AmarjeetKumarJyotish)
 
-- 👨‍💻 Check my Portfolio : [Portfolio](https://amarjeetkr.vercel.app/)
+- 👨‍💻 Check my Portfolio: [Portfolio](https://amarjeetkr.vercel.app/)
 
 - 💬 Ask me about **Web Development, React.js, AI Projects, or Software Engineering**
 
@@ -33,6 +34,7 @@
 - 📄 View my resume: [Click here](https://drive.google.com/file/d/1cRorrloWRRWly-MbKRtUKIRmHPvUuNj6/view?usp=sharing)
 
 - ⚡ Fun fact: **I’m probably solving coding problems and smiling through the bugs 😄🤘**
+
 
 ## 🏆 GitHub Trophy Cabinet
 
