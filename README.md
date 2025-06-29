@@ -15,7 +15,6 @@
   <a href="https://www.instagram.com/amarjeetjyotish/">Instagram</a>
 </p>
 
-<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
 <br/>
