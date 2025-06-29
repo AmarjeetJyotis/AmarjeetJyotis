@@ -5,14 +5,10 @@
 <h3 align="center">Software Engineer | AI Enthusiast | Front-End Developer 🚀</h3>
 
 <p align="center">Let’s Build Intelligent and Scalable Web Solutions!</p>
-
-
 <br/>
-<br/>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
-
+<br/>
 
 - 🌱 I’m currently learning and building with the **MERN Stack**, AI, and scalable web apps.
 
