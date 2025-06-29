@@ -166,7 +166,15 @@
  </tr>
 </table>
 
+## 📊 GitHub Insights & Activity
 
-![AmarjeetJyotis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetJyotis&theme=default&show_icons=true&hide_border=true&layout=compact)
-![AmarjeetJyotis's Stats](https://github-readme-stats.vercel.app/api?username=AmarjeetJyotis&theme=default&show_icons=true&hide_border=true&count_private=true)
-![AmarjeetJyotis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmarjeetJyotis&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjeetJyotis&theme=default&show_icons=true&hide_border=true&layout=compact" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=AmarjeetJyotis&theme=default&show_icons=true&hide_border=true&count_private=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmarjeetJyotis&theme=default&hide_border=true" />
+</p>
+
