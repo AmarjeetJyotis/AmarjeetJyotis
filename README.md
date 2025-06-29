@@ -7,17 +7,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning and building with the **MERN Stack**, AI, and scalable web apps.
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)
+- 👨‍💻 Check out all my major projects here: [Portfolio Website](https://amarjeetkr.vercel.app/)  
+  Or visit my project hub: [Linktree](https://linktr.ee/AmarjeetKumarJyotish)
 
-- 💬 Ask me about **Web Development, Software Engineering, Android Development**
+- 💬 Ask me about **Web Development, React.js, AI Projects, or Software Engineering**
 
-- 📫 How to reach me **ak7462514@gmail.com**
+- 📫 How to reach me: **ak7462514@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zMZRBM0uRsBRvkybdD0NEEDomyYuRhz3/view?usp=sharing](https://drive.google.com/file/d/1TgMa9nG0nCkG0qo7uFxpd61sv4HmySry/view)
+- 📄 View my resume: [Click here](https://drive.google.com/file/d/1TgMa9nG0nCkG0qo7uFxpd61sv4HmySry/view)
 
-- ⚡ Fun fact **I am Funny 🤘😎**
+- ⚡ Fun fact: **I’m probably solving coding problems and smiling through the bugs 😄🤘**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
