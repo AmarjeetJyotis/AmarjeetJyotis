@@ -19,8 +19,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
 <br/>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🌱 I’m currently learning and building with the **MERN Stack**, AI, and scalable web apps.
+- 🌱 Currently working on AI projects, mastering **React.js / Next.js**, and building scalable apps using **AWS**, **Redux**, and **PostgreSQL**.
 
 - 👨‍💻 Check out all my major projects here: [Linktree: ](https://linktr.ee/AmarjeetKumarJyotish)
 
