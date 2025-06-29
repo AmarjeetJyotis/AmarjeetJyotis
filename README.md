@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm AMARJEET KUMAR</h1>
-<h3 align="center">A passionate software engineer and frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/web-development-6113550-5044209.gif">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey There! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
+<h2 align="center">I’m <strong>AMARJEET KUMAR</strong></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">Software Engineer | AI Enthusiast | Front-End Developer 🚀</h3>
+
+<p align="center">Let’s Build Intelligent and Scalable Web Solutions!</p>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amarjeetjyotish&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetjyotish" /> </p>
 
 - 🌱 I’m currently learning and building with the **MERN Stack**, AI, and scalable web apps.
 
@@ -19,6 +22,9 @@
 - 📄 View my resume: [Click here](https://drive.google.com/file/d/1TgMa9nG0nCkG0qo7uFxpd61sv4HmySry/view)
 
 - ⚡ Fun fact: **I’m probably solving coding problems and smiling through the bugs 😄🤘**
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
