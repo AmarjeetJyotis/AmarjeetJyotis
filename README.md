@@ -23,7 +23,11 @@
 
 - ⚡ Fun fact: **I’m probably solving coding problems and smiling through the bugs 😄🤘**
 
+## 🏆 GitHub Trophy Cabinet
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
