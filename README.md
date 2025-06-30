@@ -48,7 +48,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amarjeet-jyotish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarjeet-jyotish/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/amarjeetaryan.aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amarjeetaryan.aaryan" height="30" width="40" /></a>
 <a href="https://instagram.com/amarjeetjyotish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarjeetjyotish" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amarjeetjyotish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amarjeetjyotish/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/AmarjeetJyotish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amarjeetjyotish/" height="30" width="40" /></a>
 </p>
 
 ## My favorite tools and technologies ⚙️
