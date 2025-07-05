@@ -7,7 +7,7 @@
 <p align="center">Let’s Build Intelligent and Scalable Web Solutions!</p>
 
 <p align="center">
-  <a href="https://amarjeetkr.vercel.app/">Portfolio</a> -
+  <a href="https://amarjeett.vercel.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/amarjeet-jyotish/">LinkedIn</a> -
   <a href="https://linktr.ee/AmarjeetKumarJyotish">LinkTree</a> -
   <a href="https://twitter.com/">Twitter</a> -
@@ -24,7 +24,7 @@
 
 - 👨‍💻 Check out all my major projects here: [Linktree](https://linktr.ee/AmarjeetKumarJyotish)
 
-- 👨‍💻 Check my Portfolio: [Portfolio](https://amarjeetkr.vercel.app/)
+- 👨‍💻 Check my Portfolio: [Portfolio](https://amarjeett.vercel.app/)
 
 - 💬 Ask me about **Web Development, React.js, AI Projects, or Software Engineering**
 
