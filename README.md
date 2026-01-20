@@ -30,7 +30,7 @@
 
 - 📫 How to reach me: **ak7462514@gmail.com**
 
-- 📄 View my resume: [Click here](https://drive.google.com/file/d/1cRorrloWRRWly-MbKRtUKIRmHPvUuNj6/view?usp=sharing)
+- 📄 View my resume: [Click here](https://drive.google.com/file/d/1OOUlZD42tTtS9-9VdFJlwqw6Rsz8WN7f/view)
 
 - ⚡ Fun fact: **I’m probably solving coding problems and smiling through the bugs 😄🤘**
 
