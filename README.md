@@ -2,7 +2,7 @@
 
 <h2 align="center">I’m <strong>AMARJEET KUMAR</strong></h2>
 
-<h3 align="center">Software Engineer | AI Enthusiast | Front-End Developer 🚀</h3>
+<h3 align="center">Software Engineer | AI Enthusiast | Cloud Native Microservices 🚀</h3>
 
 <p align="center">Let’s Build Intelligent and Scalable Web Solutions!</p>
 
